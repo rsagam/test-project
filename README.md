@@ -1,2 +1,2 @@
-# test-project
-creating sample test project 
+# Hello world Java Program
+creating sample Hello World
